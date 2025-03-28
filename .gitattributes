@@ -1,0 +1,8 @@
+großen filter=lfs diff=lfs merge=lfs -text
+Dateien filter=lfs diff=lfs merge=lfs -text
+.sql filter=lfs diff=lfs merge=lfs -text
+sind filter=lfs diff=lfs merge=lfs -text
+*.sql filter=lfs diff=lfs merge=lfs -text
+\# filter=lfs diff=lfs merge=lfs -text
+Falls filter=lfs diff=lfs merge=lfs -text
+deine filter=lfs diff=lfs merge=lfs -text
