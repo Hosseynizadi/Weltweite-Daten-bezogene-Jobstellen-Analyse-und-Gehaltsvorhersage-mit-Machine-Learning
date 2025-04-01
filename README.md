@@ -8,7 +8,8 @@ Dafür wurden Web Scraping, Machine Learning und eine interaktive Web-App kombin
 ✅ Datenvisualisierung mit Tableau (z. B. Gehälter nach Region, Top-Skills)
 ✅ Entwicklung eines Machine Learning-Modells zur Gehaltsvorhersage
 ✅ Erstellung einer Streamlit Web-App zur interaktiven Nutzung
-<img width="806" alt="Screenshot 2025-03-19 121516" src="https://github.com/user-attachments/assets/03bf6ffc-84a5-4c8d-b459-527948d05de1" />
+
+# <img width="806" alt="Screenshot 2025-03-19 121516" src="https://github.com/user-attachments/assets/03bf6ffc-84a5-4c8d-b459-527948d05de1" />
 
 # 🛠 Technologien & Tools
 chnologien & Tools
