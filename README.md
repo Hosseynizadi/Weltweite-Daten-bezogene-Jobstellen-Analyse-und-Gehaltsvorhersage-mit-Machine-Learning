@@ -1,4 +1,6 @@
 # 🌍 Weltweite Daten-bezogene Jobstellen Analyse & Gehaltsvorhersage mit Machine Learning
+# <img width="675" alt="Screenshot 2025-04-01 122354" src="https://github.com/user-attachments/assets/643ad03c-ecbb-43c6-bc72-4f3382e00b96" />
+
 📌 Projektbeschreibung
 Dieses Projekt analysiert Jobangebote für datenbezogene Berufe weltweit und erstellt eine Gehaltsvorhersage basierend auf verschiedenen Faktoren.
 Dafür wurden Web Scraping, Machine Learning und eine interaktive Web-App kombiniert.
